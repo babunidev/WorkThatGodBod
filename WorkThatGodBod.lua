@@ -1,5 +1,5 @@
 -- WorkThatGodBod (Standalone) v1.1
--- Vanilla / Turtle WoW 1.12.1
+-- Vanilla WoW 1.12.1
 -- Lua 5.0-safe
 -- SavedVariables: WorkThatGodBodDB
 

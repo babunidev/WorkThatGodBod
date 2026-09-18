@@ -1,7 +1,7 @@
 WorkThatGodBod
 ==============
 
-WorkThatGodBod is a lightweight Turtle WoW addon that gently reminds you to move, hydrate, and fix your posture while you play.
+WorkThatGodBod is a lightweight World of Warcraft 1.12 add-on that gently reminds you to move, hydrate, and fix your posture while you play.
 
 It works by watching a chosen action bar slot. When that slot is pressed, the addon may print a short, real-world movement or posture prompt in chat. No timers, no UI, no nagging—just small nudges when you’re already in motion.
 
