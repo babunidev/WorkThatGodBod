@@ -1,7 +1,7 @@
 ## Interface: 11200
 ## Title: WorkThatGodBod
 ## Notes: Gentle in-world movement and posture reminders triggered by action buttons.
-## Author: babunigaming
+## Author: Babuni.dev
 ## Version: 1.1
 ## SavedVariables: WorkThatGodBodDB
 
