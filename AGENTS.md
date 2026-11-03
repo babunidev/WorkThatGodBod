@@ -1,6 +1,6 @@
 # WorkThatGodBod — development and documentation rules
 
-**Creative author and decision-maker:** Babuni.dev.
+**Human creative and decision-maker:** Babuni.
 
 ## Preserve the concept and source-based history
 
@@ -19,7 +19,7 @@ Separate **user direction**, **AI suggestion**, **iteration**, **decision**, **a
 ## Implementation discipline
 
 1. Read `README.md`, `CONCEPT.md`, `docs/ARCHITECTURE.md`, `docs/DECISIONS.md`, `docs/DESIGN.md`, `docs/CONTENT.md` and `WorkThatGodBod.lua`.
-2. Do not change chat routing, saved-data schema, prompt pool, probability or cooldown semantics without Babuni.dev's direction.
+2. Do not change chat routing, saved-data schema, prompt pool, probability or cooldown semantics without Babuni's direction.
 3. Maintain target WoW 1.12/Lua 5.0 conventions unless explicitly changed.
 4. Preserve the delegation to original `UseAction`, and review conflicts with other action-hook addons.
 5. Test actual client loading, commands, output channels, randomness, persistence, and UI before claiming success.
@@ -27,3 +27,7 @@ Separate **user direction**, **AI suggestion**, **iteration**, **decision**, **a
 7. Keep portfolio journal narratives publication-safe: no private chats, health data, credentials or other players' personal information.
 
 The 2026-10-26 update was strictly documentary and did not alter gameplay.
+
+## Repository-local documentation standard
+
+Before writing or changing project documentation, read [docs/DOCUMENTATION.md](docs/DOCUMENTATION.md). These rules travel with this repository and do not depend on the babuni.dev ChatGPT Project. Preserve all project-specific technical, creative, canon, safety, licensing, and historical rules in this file; follow the linked standard for public first-person narrative, human–AI attribution, concise development journals, decision records, and evidence-based verification. **Babuni** is the human creative; **babuni.dev** is the website/portfolio, not the person. Preserve third-party credits and historical legal notices. References above to a dated “documentation-only audit” describe that past task, not a permanent ban on later authorized implementation.
