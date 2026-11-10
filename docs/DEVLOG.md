@@ -1,6 +1,6 @@
-# WorkThatGodBod — creative and technical development journal
+# WorkThatGodBod — development journal
 
-**Creative author:** Babuni.dev  
+**Creative:** Babuni
 **Reconstructed 2026-10-26** from the creator-facing README, the live Lua/TOC, and dated Git diffs. This is a **retrospective development record**, not an invented transcript of private human–AI discussions.
 
 ## The creative premise: make a tiny break feel like play
